@@ -1,0 +1,26 @@
+{
+  "short_name": "Submission",
+  "name": "Submission Satu",
+  "description": "Ini adalah submission pertama saya di kelas PWA",
+  "icons": [
+    {
+      "src": "./img/icon-sm.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./img/icon-sm.png",
+      "type": "image/png",
+      "sizes": "320x320"
+    },
+    {
+      "src": "./img/icon-lg.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "theme_color": "#3367D6"
+}
